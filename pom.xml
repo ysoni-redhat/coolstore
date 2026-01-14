@@ -23,6 +23,11 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
+          <groupId>com.enterprise.audit</groupId>
+          <artifactId>audit-logging</artifactId>
+        </dependency>
+
+        <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-api</artifactId>
             <version>7.0</version>
