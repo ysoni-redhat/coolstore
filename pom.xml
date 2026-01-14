@@ -25,6 +25,7 @@
         <dependency>
           <groupId>com.enterprise.audit</groupId>
           <artifactId>audit-logging</artifactId>
+          <version>1.0.0</version>
         </dependency>
 
         <dependency>
